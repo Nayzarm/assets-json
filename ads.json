@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "message": "Get Ads with hide_show",
+    "data": [
+        {
+            "id": 1,
+            "title": "Shuu Shuu Shae Shae ( Hot Pot )",
+            "ads_link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fthewinhotpot%2F&psig=AOvVaw2UnvODGW_opagikGOG-7RV&ust=1678018114572000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDWwd-ewv0CFQAAAAAdAAAAABA5",
+            "location": "Yangon",
+            "img_cdn": "https://www.restaurantguide.com.mm/custom/domain_1/image_files/sitemgr_photo_23984.jpg",
+            "hide_show": 1,
+            "lat": null,
+            "long": null
+        },
+    ]
+}
