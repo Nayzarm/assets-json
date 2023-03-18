@@ -4,6 +4,7 @@
     "data": [
         {
             "version": 1,
+            "is_maintenance": false,
         },
     ]
 }
