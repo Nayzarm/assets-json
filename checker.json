@@ -2,7 +2,7 @@
     "status": true,
     "message": "Check new version",
     "data":{
-            "version": 1,
+            "version": 2,
             "is_maintenance": false,
         }
     
