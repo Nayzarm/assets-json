@@ -1,10 +1,10 @@
 {
     "status": true,
     "message": "Check new version",
-    "data": [
+    "data":
         {
             "version": 1,
             "is_maintenance": false,
         },
-    ]
+    
 }
