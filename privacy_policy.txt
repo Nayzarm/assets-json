@@ -1,0 +1,23 @@
+Nayzarm App Privacy Policy
+
+Islamic NGO Application ( Ramadan Timetable Application )
+
+We didn't collect any information of the user and every user 
+can use easy.
+
+1. We are store user some device information for user
+better service.
+
+2.This app use user storage, Wi-Fi
+connection information, Vibrate etc for application
+functionality and notification.
+
+User device information
+This App have no login/registration section. For this
+reason when you are get into in premium user or
+remove Ads Then for your identity we store some
+your device info. like your device id for your better
+experience
+
+We are not store your any location IP or
+address or wifi connection and user information.
